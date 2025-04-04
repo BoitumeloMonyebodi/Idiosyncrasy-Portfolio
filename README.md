@@ -6,3 +6,5 @@ The website is hosted on Netlify, which makes the deployment process fast and ea
 
 While the portfolio is simple, it was a great learning experience where I applied foundational concepts of web development. In the future, I plan to add more functionality and features, such as JavaScript interactivity, as I continue to enhance my skills and expand my knowledge in the field of web development."
 
+NETLIFY LINK
+https://gleaming-paletas-db5248.netlify.app/
